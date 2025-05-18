@@ -3997,6 +3997,39 @@
 						"PC": true,
 						"Android": false
 					}
+				},
+				{
+					"ID": "wrld_42287232-c9fc-4e43-83db-a165f092e9e6",
+					"Name": "Snell's Pool",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "A pool world featuring an experimental water shader‚ built specifically for Quest․ Experience real refraction on your mobile headsetǃ Also check out the diving tower with its 3 to 10 meter platforms․",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_3ad8f8af-f471-4e60-b9b0-4aafb2d8e9a3",
+					"Name": "光とネモフィラと",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "2025․No․2_World",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_78d032b6-9408-409d-a383-3a029bfbbaa9",
+					"Name": "夏の忘れ物",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "ラムネ瓶に入っているあのガラス玉、「ビー玉」じゃなくて「エー玉」っていうみたいですね。嘘みたいな本当のな話。BGM˸あの夏の日／written by˸蒲鉾さちこ 様",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
 				}
 			]
 		},
@@ -4008,7 +4041,7 @@
 					"Name": "Spirits of the Sea 海の幽霊",
 					"RecommendedCapacity": 25,
 					"Capacity": 50,
-					"Description": "Updated 7-10-2024",
+					"Description": "Updated 24-Apr-2025",
 					"Platform": {
 						"PC": true,
 						"Android": true
@@ -5449,7 +5482,7 @@
 					"Name": "Kotatsmuri-こたつむり-",
 					"RecommendedCapacity": 5,
 					"Capacity": 10,
-					"Description": "夜景を眺めながらこたつのある部屋でゴロゴロできます。朝４時には外が明るくなり、サイレントモードや様々なギミックがあります。5⁄2ギミック追加やライティング周りの調整を行いました。",
+					"Description": "夜景を眺めながらこたつのある部屋でゴロゴロできます。朝４時には外が明るくなり、サイレントモードや様々なギミックがあります。5⁄8AvatarLightの調整をしました",
 					"Platform": {
 						"PC": true,
 						"Android": true
@@ -5567,7 +5600,7 @@
 				},
 				{
 					"ID": "wrld_0c4289fb-1396-42f1-9308-f756239d6604",
-					"Name": "［v5․2］だらけスタートルーム ⁄ The Lazy Log-in",
+					"Name": "［v5․3］だらけスタートルーム ⁄ The Lazy Log-in",
 					"RecommendedCapacity": 4,
 					"Capacity": 32,
 					"Description": "「VRCを楽しむあなたへ。ここは、だらけるためのスタート地点。」 フレンドと過ごすのも、1人でくつろぐのも自由。 ⁄ ＂For those who want to enjoy VRC without moving this is your starting point for laziness․＂ Whether you're hanging out with friends or relaxing alone‚ it's up to you․",
@@ -5658,7 +5691,7 @@
 					"Name": "TSUMUGI つむぎ",
 					"RecommendedCapacity": 12,
 					"Capacity": 32,
-					"Description": "プレイヤー視点共有ギミック追加。ゆったりしていってください。V睡、雑談、人形遊び、いろいろ探検してみてください。 船やテント、ベッドでぐっすり。左トリガー2回押しでメニューが出ます。アラーム、ナイトモードあります。 Ver․20250426 Please take your time․sleep‚ chat‚ play with dolls‚ and explore in various ways․ Sleep soundly on a boat‚ in a tent‚ or in a bed․ Press the left trigger twice to bring up the menu․It has an alarm and a night mode․",
+					"Description": "プレイヤー視点共有ギミック追加。ゆったりしていってください。V睡、雑談、人形遊び、いろいろ探検してみてください。 船やテント、ベッドでぐっすり。左トリガー2回押しでメニューが出ます。アラーム、ナイトモードあります。 Ver․202500505 Please take your time․sleep‚ chat‚ play with dolls‚ and explore in various ways․ Sleep soundly on a boat‚ in a tent‚ or in a bed․ Press the left trigger twice to bring up the menu․It has an alarm and a night mode․",
 					"Platform": {
 						"PC": true,
 						"Android": false
@@ -6003,6 +6036,94 @@
 					"Platform": {
 						"PC": true,
 						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_da9ace80-48b7-41bd-b7fa-894d0245a8cb",
+					"Name": "本能寺【和風チルワ】",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "炎上機能付きチルワールド 簡単に遊べるボードゲームもあります。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_91566437-2de2-4649-8604-d3bfd8c1b5c1",
+					"Name": "Just お荷物",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "職場、学校、家庭などでお荷物になっているあなたに、癒しのひと時を。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_1274b2bb-0858-44e7-ad91-e037452a6558",
+					"Name": "旅館「待宵」-inn matuyoi-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "来る筈の人を待つ夜。旅館の一室のワールドです。V睡や団欒にどうぞ",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_bc8c7cfa-3ac9-4080-a76b-b0ab2591f073",
+					"Name": "終末の天文台 ⁄ Abandoned Observatory",
+					"RecommendedCapacity": 40,
+					"Capacity": 50,
+					"Description": "ここには温かいコーヒーと膨大な本があり、語り待ち、耳を傾けられる物語がある。潮が最後の峰を覆い尽くすとき、私たちが星々の下で永遠に温もりのある安住の地を得られますように。⁄ 此处有温热的咖啡与浩繁的书籍，还有等待着讲述与倾听的故事。当潮水漫过最后一座山峰时，愿我们能在星辰之下，获得永恒温馨的归宿。Ver․1․5․0",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_35021cf0-ac90-4a4e-bca4-d8d41bcab90e",
+					"Name": "夏宵が、来る頃に。",
+					"RecommendedCapacity": 20,
+					"Capacity": 20,
+					"Description": "夕焼けに照らされた小さな空間に、必要な物は揃っています。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_da64f96d-7b06-422e-a6bc-ffc937fee620",
+					"Name": "ごろにゃんハウス",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Catsǃ Fluffy beds await youcome relaxǃ",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_ca287fc4-e715-4aa6-b8f9-945c6c8452b4",
+					"Name": "砂糖じかけのねんね屋",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "今日もちゃんと自分のことをいっぱい褒めてあげた、ぎゅーってしてあげた？",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_c4041d96-8f79-4297-9531-6e4431a94212",
+					"Name": "Tiny Life Room",
+					"RecommendedCapacity": 6,
+					"Capacity": 16,
+					"Description": "新しいけど、新しくない。都市郊外に佇む築古リノベマンションの一室です。クラフトビール片手にゆっくりと流れる時間をお楽しみください。",
+					"Platform": {
+						"PC": true,
+						"Android": true
 					}
 				}
 			]
@@ -9697,6 +9818,17 @@
 					"Platform": {
 						"PC": true,
 						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_40f96cef-3477-46b5-955a-ae03bc46d09b",
+					"Name": "Prize Lounge",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "【UdonChips対応】本格クレーンゲーム - 橋渡しタイプ https˸⁄⁄prestonia-vrc․booth․pm⁄items⁄6785436 サンプルワールドです。",
+					"Platform": {
+						"PC": true,
+						"Android": false
 					}
 				}
 			]
