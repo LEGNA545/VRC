@@ -483,7 +483,7 @@
 					"Name": "Trance Swimming Pool （Udon Ver）",
 					"RecommendedCapacity": 40,
 					"Capacity": 80,
-					"Description": "2023⁄09⁄09 Ver․1․0․3 Release Trance Swimming Pool （Udon Ver）",
+					"Description": "2025⁄05⁄06 Ver․1․1․0 Release Trance Swimming Pool （Udon Ver）",
 					"Platform": {
 						"PC": true,
 						"Android": true
@@ -681,7 +681,7 @@
 					"Name": "District Roboto",
 					"RecommendedCapacity": 80,
 					"Capacity": 80,
-					"Description": "Welcome to District Robotoǃ home to the unique and curious droids inhabitants‚ explore this humble district and maybe find your own little spot in this bustling place․",
+					"Description": "Welcome to District Robotoǃ home to the unique and curious droids inhabitants‚ explore this humble district and maybe find your own little spot in this bustling place․ Updated to support Red Sim's Light Volume",
 					"Platform": {
 						"PC": true,
 						"Android": false
@@ -1503,10 +1503,10 @@
 				},
 				{
 					"ID": "wrld_ee8b1b4c-5e57-4394-a864-a02b370c8676",
-					"Name": "Polyworld （v0․144e）",
+					"Name": "Polyworld （v0․149c）",
 					"RecommendedCapacity": 60,
 					"Capacity": 80,
-					"Description": "Welcome to a low-fi adventure․ Explore the city and visit the different areas․ Attractions include a working cinema with realtime lighting and 7․1 support‚ a vinyl music store‚ nightclubs‚ rooftop bar‚ working bowling alley and more․ Check out the site for linksǃ https˸⁄⁄polyworld․city （Quest Updated˸ 2025-04-27）",
+					"Description": "Welcome to a low-fi adventure․ Explore the city and visit the different areas․ Attractions include a working cinema with realtime lighting and 7․1 support‚ a vinyl music store‚ nightclubs‚ rooftop bar‚ working bowling alley and more․ Check out the site for linksǃ https˸⁄⁄polyworld․city （Quest Updated˸ 2025-05-13）",
 					"Platform": {
 						"PC": true,
 						"Android": true
@@ -1726,7 +1726,7 @@
 					"Name": "Gion Street - 祇園通り日本",
 					"RecommendedCapacity": 80,
 					"Capacity": 80,
-					"Description": "今夜、祇園通りワールドにて、恒例の大晦日年越しカウントダウン花火イベントが行われます！ 今年は午前0時に星空から天の蛇が舞い降り、新年の幕開けを告げる！ 12月31日23˸59（1分前）から始まりますので、どうぞお見逃しなく！",
+					"Description": "Light Volume OK 次回の祇園通りワールド恒例・大晦日カウントダウン花火イベントは、2026年12月31日に開催されます！ 午前0時ちょうど、天から駆け降りる神秘の馬が、午（うま）年の幕開けを華やかに告げます！ イベントは23時59分（1分前）から始まりますので、どうぞお見逃しなく！",
 					"Platform": {
 						"PC": true,
 						"Android": false
@@ -3321,7 +3321,7 @@
 					"Name": "Vermilion Gates",
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
-					"Description": "Vermilion Gates from Tekken 7˸ Fated Retribution‚ a beautiful stage with blooming cherry trees․ Assets were not personally extracted by me․ 5⁄10⁄23 enhanced lightmap ＆ materials 11⁄10⁄24 silent's AGX‚ fog‚ updated shaders‚ lower file-size",
+					"Description": "Vermilion Gates from Tekken 7˸ Fated Retribution‚ a beautiful stage with blooming cherry trees․ Assets were not personally extracted by me․ 5⁄10⁄23 enhanced lightmap ＆ materials 11⁄10⁄24 silent's AGX‚ fog‚ updated shaders‚ lower file-size 5⁄20⁄25 VRC Light Volume Support",
 					"Platform": {
 						"PC": true,
 						"Android": false
@@ -3728,7 +3728,7 @@
 					"Name": "Underground hideout ⁄地下の隠れ家",
 					"RecommendedCapacity": 16,
 					"Capacity": 16,
-					"Description": "ギミックの仕様上エレベーターは一人しか使えません、コンテナの後ろにある看板でテレポートできます。",
+					"Description": "森の中のコンテナには秘密がある。",
 					"Platform": {
 						"PC": true,
 						"Android": false
@@ -3827,7 +3827,7 @@
 					"Name": "OD Swimming Pool",
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
-					"Description": "Inspired by existing world‚ now you can swim in outdoor swimming pool filled with 25M x 12M interactive waterǃ とある既存ワールドに参考して作った触れる水入り室外プールワールドっす。ミラーを付けるとちょっと重くなるかもしれない。 1⁄14 Update˸ Small improvement on water splash script （hopefully）․ Visual tweaks on water wave․",
+					"Description": "Inspired by existing world‚ now you can swim in outdoor swimming pool filled with 25M x 12M interactive waterǃ とある既存ワールドに参考して作った触れる水入り室外プールワールドっす。ミラーを付けるとちょっと重くなるかもしれない。 5⁄23 Update˸ small adjustment on water material and terrain for PC․",
 					"Platform": {
 						"PC": true,
 						"Android": true
@@ -4030,6 +4030,83 @@
 						"PC": true,
 						"Android": true
 					}
+				},
+				{
+					"ID": "wrld_f2152992-af74-49d7-8dad-101c1ff80eb1",
+					"Name": "常夏のひととき -A Tropical Moment-",
+					"RecommendedCapacity": 30,
+					"Capacity": 60,
+					"Description": "常夏の南の島をイメージして作りました。バカンス気分を味わったりちょっとした写真撮影などにお使いください（Android対応）",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_f8f0c2b8-7d9f-4189-846f-3899ea860a8f",
+					"Name": "-yuuri-憩いの島",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "木陰の下でのんびりとした時間を過ごしませんか？",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_e980868e-7eb3-404e-8dd0-4513014d12ea",
+					"Name": "暮色の孤島_Twilight Solitary Island",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "夕日の見えるチルワ孤島です An island where you can see the sunset",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_371bc56d-2f6c-4494-a06b-168b9e35b59c",
+					"Name": "Elevation Alpha",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "A historic pilgrimage site tucked away on the surface of a ring world․ Renergize the mind‚ body‚ and spirit among those you find closest while auroras dance overhead․",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_e6f73224-393a-4315-a9cc-90cfb1172ba7",
+					"Name": "縁結び神社 ～甘縁宮（あまえんぐう）～",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "甘縁宮（あまえんぐう）は、お砂糖祈願・恋愛成就・コミュニティ内安全などにご利益がありそうな縁結び神社です。交流用タグマーカー、QvPen、動画プレイヤー、V睡設備、パーティーモード（PCのみ）有。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_1a6f2740-51de-4df0-97d8-9dbeb65b9867",
+					"Name": "翠穿ノ庵",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "涼と静謐漂う竹林の隠れ家になります。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_c966915b-e459-4553-850e-0bb8d0fb341a",
+					"Name": "降る雨の思い出 Rainy Memories",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
 				}
 			]
 		},
@@ -4052,7 +4129,7 @@
 					"Name": "Midnight Rooftop",
 					"RecommendedCapacity": 40,
 					"Capacity": 80,
-					"Description": "（28⁄11⁄24） Persistence Supportǃ - Chill world set on top of a rooftop inside of a rainy conservatory at night‚ with an indoor area inside of the building․ Now with YouTube Searchǃ Features portable mirror‚ post processing sliders‚ ambient sounds‚ ambient particles‚ music and moreǃ Bedroom‚ pool‚ garden‚ bar‚ 8Ball‚ customisation options‚ optimisation options‚ UDON‚ chess‚ games‚ plushies․",
+					"Description": "（21⁄05⁄25） VRCLightVolumes Supportǃ - Chill world set on top of a rooftop inside of a rainy conservatory at night‚ with an indoor area inside of the building․ Now with YouTube Searchǃ Features portable mirror‚ post processing sliders‚ ambient sounds‚ ambient particles‚ music and moreǃ Bedroom‚ pool‚ garden‚ bar‚ 8Ball‚ customisation options‚ optimisation options‚ UDON‚ chess‚ games‚ plushies․",
 					"Platform": {
 						"PC": true,
 						"Android": true
@@ -4789,7 +4866,7 @@
 					"Name": "Room key 307",
 					"RecommendedCapacity": 4,
 					"Capacity": 8,
-					"Description": "VR睡眠や少人数での雑談などにどうぞ［2025⁄4⁄10 Minor fixed․］",
+					"Description": "VR睡眠や少人数での雑談などにどうぞ［2025⁄5⁄24 Added VRC Light Volumes․］",
 					"Platform": {
 						"PC": true,
 						"Android": false
@@ -5229,7 +5306,7 @@
 					"Name": "真夜中のふたへや。［Midnight-TwoRooms］",
 					"RecommendedCapacity": 10,
 					"Capacity": 20,
-					"Description": "Unity2022にアップデートしました。寝室が増えました。 This project⁄world uses LTCGI by _pi_‚ see 'github․com⁄pimaker⁄ltcgi'․",
+					"Description": "2025⁄05⁄22 VRC Light Volumesに対応しました。 Unity2022にアップデートしました。寝室が増えました。 This project⁄world uses LTCGI by _pi_‚ see 'github․com⁄pimaker⁄ltcgi'․ This world supports VRC Light Volumes․ Use avatar shaders with VRC Light Volumes support for an enhanced visual experience․ VRC Light Volumes by RED_SIM GitHub˸ https˸⁄⁄github․com⁄REDSIM⁄VRCLightVolumes⁄",
 					"Platform": {
 						"PC": true,
 						"Android": true
@@ -5317,7 +5394,7 @@
 					"Name": "悠久ノ和室",
 					"RecommendedCapacity": 20,
 					"Capacity": 30,
-					"Description": "普通?の和室です 1⁄21 クエスト対応＆マテリアル数21から15へ削減 少し修正",
+					"Description": "普通?の和室です LightVolume調整中",
 					"Platform": {
 						"PC": true,
 						"Android": true
@@ -5372,7 +5449,7 @@
 					"Name": "Yonsen",
 					"RecommendedCapacity": 16,
 					"Capacity": 16,
-					"Description": "241231 ｜ Yonsen ｜ 夜の静寂を纏う温泉物語",
+					"Description": "250520 ｜ Yonsen ｜ 夜の静寂を纏う温泉物語",
 					"Platform": {
 						"PC": true,
 						"Android": false
@@ -5482,7 +5559,7 @@
 					"Name": "Kotatsmuri-こたつむり-",
 					"RecommendedCapacity": 5,
 					"Capacity": 10,
-					"Description": "夜景を眺めながらこたつのある部屋でゴロゴロできます。朝４時には外が明るくなり、サイレントモードや様々なギミックがあります。5⁄8AvatarLightの調整をしました",
+					"Description": "夜景を眺めながらこたつのある部屋でゴロゴロできます。朝４時には外が明るくなり、サイレントモードや様々なギミックがあります。5⁄20VRC Light Volumesに対応しました（PC）",
 					"Platform": {
 						"PC": true,
 						"Android": true
@@ -5600,7 +5677,7 @@
 				},
 				{
 					"ID": "wrld_0c4289fb-1396-42f1-9308-f756239d6604",
-					"Name": "［v5․3］だらけスタートルーム ⁄ The Lazy Log-in",
+					"Name": "［v6］だらけスタートルーム ⁄ The Lazy Log-in",
 					"RecommendedCapacity": 4,
 					"Capacity": 32,
 					"Description": "「VRCを楽しむあなたへ。ここは、だらけるためのスタート地点。」 フレンドと過ごすのも、1人でくつろぐのも自由。 ⁄ ＂For those who want to enjoy VRC without moving this is your starting point for laziness․＂ Whether you're hanging out with friends or relaxing alone‚ it's up to you․",
@@ -5771,7 +5848,7 @@
 					"Description": "これはジョークワールドです。ホテルの一室と、一人暮らしの部屋があるだけ。 連絡が取れなくなったお砂糖から突然届いた一通のビデオレター そこには貴方の信じられない物が映っているかもしれない・・・。 センシティブな物は置いてませんが、脳が破壊されるかもしれません This is a joke world․Just a hotel room and a room where one lives alone․ A video letter suddenly arrives from a sugar who can't be reached․ We don't put anything sensitive‚ but it might destroy your brain․",
 					"Platform": {
 						"PC": true,
-						"Android": false
+						"Android": true
 					}
 				},
 				{
@@ -5867,7 +5944,7 @@
 					"Name": "BOTANICA",
 					"RecommendedCapacity": 25,
 					"Capacity": 36,
-					"Description": "［EN info below］ 雲海の上で植物に囲まれた穏やかな暮らしを。 1階にはカフェスペース、2階にはベッドと動画視聴用のソファ。庭付きの2階建ての家です。入口横のスイッチで椅子のsit判定切替、軽量化のための各種エフェクト切替が可能。メニュー呼出はVR˸左トリガー2回⁄Desktop˸Eキー です。 ---QvPen（メニューから呼出可能）、イベントカレンダー（2階壁スイッチ）、筆談用ミラー（2階ソファ前）、imagePad、YamaPlayer、Joinログ・通知、スリープモード（明るさ調整）、アラーム、FlipCamera、各種食べ物など ーーーChill living above the clouds․ 1st floor˸ cafe space․ 2nd floor˸ video player and bed․ The button next to the entrance toggles the seats․ You can also turn off effects and terrain if you feel the performance is too heavy․ To pull up the menu tablet‚ double click the left trigger in VR or press E on desktop․",
+					"Description": "（update˸VRC Light Volumes対応） 雲海の上で植物に囲まれた穏やかな暮らしを。 1階にはカフェスペース、2階にはベッドと動画視聴用のソファ。外に庭もあります。入口横のスイッチで椅子のsit判定切替、軽量化のための各種エフェクト切替が可能。メニュー呼出はVR˸左トリガー2回⁄Desktop˸Eキー です。 ---QvPen（メニューからも呼出可能）、イベントカレンダー（2階壁スイッチ）、筆談用ミラー（2階）、imagePad、YamaPlayer、Joinログ・通知、明るさ調整、アラーム、FlipCamera、各種食べ物など ーーーーChill living above the clouds․ 1st floor˸ cafe space․ 2nd floor˸ video player and bed․ The button next to the entrance toggles the seats․ You can also turn off effects and terrain if you feel the performance is too heavy․ To pull up the menu tablet‚ double click the left trigger in VR or press E on desktop․",
 					"Platform": {
 						"PC": true,
 						"Android": false
@@ -5922,7 +5999,7 @@
 					"Name": "SepiaLodge",
 					"RecommendedCapacity": 2,
 					"Capacity": 8,
-					"Description": "In a certain mountain cabin in Scandinavia‚ circa 1980‚ the wooden floor of the attic is cold and creaks underfoot․ Moonlight streams in at an angle through a small window‚ turning the dust-filled air a shimmering silver․ A small‚ dimly lit world for chilling and sleeping‚ designed for a few close friends․ RBS is implemented‚ and everything you need is ready․ Quietly‚ comfortably good night․ 1980年、北欧のとある山小屋。 屋根裏部屋の冷たい木の床が静かに軋む。 小さな窓から月明かりが斜めに差し込み、 舞い上がる埃を銀色に染めていく。 ここは狭く薄暗い、少人数のためだけに用意されたチルと眠りのための世界。 必要なものはすべてここに揃っている。 静かに、心地よく、夜に溶けるように。 それでは、おやすみなさい。",
+					"Description": "ーーーーLightVolumes Ready‚‚ In a certain mountain cabin in Scandinavia‚ circa 1980‚ the wooden floor of the attic is cold and creaks underfoot․ Moonlight streams in at an angle through a small window‚ turning the dust-filled air a shimmering silver․ A small‚ dimly lit world for chilling and sleeping‚ designed for a few close friends․ RBS is implemented‚ and everything you need is ready․ Quietly‚ comfortably good night․ 1980年、北欧のとある山小屋。 屋根裏部屋の冷たい木の床が静かに軋む。 小さな窓から月明かりが斜めに差し込み、 舞い上がる埃を銀色に染めていく。 ここは狭く薄暗い、少人数のためだけに用意されたチルと眠りのための世界。 必要なものはすべてここに揃っている。 静かに、心地よく、夜に溶けるように。 それでは、おやすみなさい。",
 					"Platform": {
 						"PC": true,
 						"Android": true
@@ -6125,6 +6202,83 @@
 						"PC": true,
 						"Android": true
 					}
+				},
+				{
+					"ID": "wrld_04062fa9-771b-4f5d-97fd-b7988db4122f",
+					"Name": "湯けむりのコテージ",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "露天風呂のあるコテージです。リビング、お風呂、寝室があります。1階の棚の上と2階の机の上にQVペンがあります。また、自動⁄手動で朝と夜を切り替えられます。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_c62da908-7eb2-47c5-99b5-b1895b097df8",
+					"Name": "2261号室 -海月-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "フレンドの雑談を聞きながら寝落ちできるような軽めのチルワールドです 寝落ちしたフレンドをバットやトングで寝室（減音部屋）に輸送可能 ミラー ナイトモード Qvpen どこでもアニメーションシステム imagePad iwaSync3 防音室 Ohalogchat 書置きギミック ビューポイント可視化 筆 イベントカレンダー",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_6802c210-d6a5-4c80-98e1-63790133c18c",
+					"Name": "夜の星空と君",
+					"RecommendedCapacity": 4,
+					"Capacity": 16,
+					"Description": "少人数でのVR睡眠や雑談に 2⁄20~ 月が見えるようになりました。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_71ce7e72-58ec-425d-a19f-890c473e3795",
+					"Name": "静かな隠遁の入り江_Hushed Seclusion Cove_",
+					"RecommendedCapacity": 1,
+					"Capacity": 20,
+					"Description": "この騒々しい複雑な現代社会から逃れて、まだ変わらず、純白で無垢な場所に行きたいと思います。皆に安心で心地よいワールドを提供したいです。著作権やバグの問題がある場合は、Twitter⁄X˸ ＠MinaUsagi_VRC までお問い合わせください。VRC Light Volumes更新完了。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_11daa9c2-512d-4f90-a22c-f77502e2d103",
+					"Name": "月砂の夜想曲-Nocturne of Moonlit Sands-",
+					"RecommendedCapacity": 16,
+					"Capacity": 16,
+					"Description": "一日の終わりに訪れる、もうひとつの静かな奇跡。『月砂の夜想曲』は、大きな月が静かに輝く南国の夜を堪能するための小さな世界です。砂浜に揺れるハンモック、やわらかな焚き火の灯り。水上に浮かぶコテージで、波音に包まれながら月夜を過ごせます。船のスイッチでログアウト用の静かな小部屋へも移動可能。投げナイフ。運転できる船もあるよ（手漕ぎボートｵｽｽﾒ）。Mirror ⁄ Video ⁄ QVPen ⁄ Hammock ⁄ Bonfire ⁄ Night Mode ⁄ VisitorsBoard⁄ Firework⁄ Boat⁄ _0528update˸ニアクリップをガチ恋距離に。その他いろいろマイナー調整。_0529update˸VRCHandmenu導入。島に渡らなくても花火にインタラクトできます。FlipCameraｘ3追加。0601˸下草。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_072f5e6c-d12f-49cf-b59b-3aaa07bdb065",
+					"Name": "書置きが増える部屋",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "お友達が少ないあなたも安心！ここは時間経過とともに、書置きが増えていきます。じっくりとV睡をして、起きた時には書置きがぎっしり！！これで寂しい朝とはおさらばです。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_5521fa6a-a485-45c1-ab36-e264b033738f",
+					"Name": "pupalupaッ's world ＾＾",
+					"RecommendedCapacity": 12,
+					"Capacity": 24,
+					"Description": "cozy cabin ｜ chill room",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
 				}
 			]
 		},
@@ -6323,7 +6477,7 @@
 					"Name": "Aquarius",
 					"RecommendedCapacity": 80,
 					"Capacity": 80,
-					"Description": "Aquarius is a multi biomes aquarium experience‚ come and gaze upon the marine life‚ and learn something new․",
+					"Description": "Aquarius is a multi biomes aquarium experience‚ come and gaze upon the marine life‚ and learn something new․ Updated to support Red Sim's Light Volume",
 					"Platform": {
 						"PC": true,
 						"Android": false
@@ -6367,7 +6521,7 @@
 					"Name": "Premium Dynamics",
 					"RecommendedCapacity": 80,
 					"Capacity": 80,
-					"Description": "Welcome to Premium Dynamics‚ a futuristic megacorporation with absolutely nothing to hide․ A brutalist-style office complex for you to explore‚ hang out‚ rp‚ or really whatever you want to use it for․ This is a redux of the original world with updated textures⁄lighting‚ removed locked doors‚ and added quest compatibility․ Updated April 24‚ 2023․",
+					"Description": "Welcome to Premium Dynamics‚ a futuristic megacorporation with absolutely nothing to hide․ A brutalist-style office complex for you to explore‚ hang out‚ rp‚ or really whatever you want to use it for․ This is a redux of the original world with updated textures⁄lighting‚ removed locked doors‚ and added quest compatibility․ Updated April 24‚ 2023․ Want to buy this world? Now you canǃ Check my Kofi‚ Jinxxy‚ or Gumroadǃ",
 					"Platform": {
 						"PC": true,
 						"Android": true
@@ -6862,7 +7016,7 @@
 					"Name": "Neon Territory",
 					"RecommendedCapacity": 18,
 					"Capacity": 48,
-					"Description": "写真撮影などにご利用下さい。 Neon World",
+					"Description": "写真撮影などにご利用下さい。 Neon World․ VRC Light Volumes support",
 					"Platform": {
 						"PC": true,
 						"Android": false
@@ -6983,7 +7137,7 @@
 					"Name": "Leafbound Library",
 					"RecommendedCapacity": 40,
 					"Capacity": 80,
-					"Description": "An overgrown library to relax and read in․",
+					"Description": "An overgrown library to relax and read in․ Now with Support for VRC Light Volumes․",
 					"Platform": {
 						"PC": true,
 						"Android": false
@@ -7017,6 +7171,17 @@
 					"RecommendedCapacity": 32,
 					"Capacity": 64,
 					"Description": "宇宙を巡行している輸送艦です。随時更新予定",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_9f795615-3402-4390-a0c7-3c60f80473aa",
+					"Name": "紅隠ノ庵",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "そこはきっと神様たちの隠れ家。和Liminalな空間になります",
 					"Platform": {
 						"PC": true,
 						"Android": false
@@ -7164,7 +7329,7 @@
 					"Name": "帝国陸海軍兵器展示場",
 					"RecommendedCapacity": 80,
 					"Capacity": 80,
-					"Description": "情報の修正や追加、資料や3Dデータ等皆様からのご支援願います。 今後、各画像の付近に解説文を追加予定です。 また、いかなる政治的・宗教的な意図をも含みません。 19⁄3⁄2025-お見せできる出来栄えとし、これをPublicとする。",
+					"Description": "情報の修正や追加、資料や3Dデータ等皆様からのご支援願います。 今後、各画像の付近に解説文を追加予定です。 また、いかなる政治的・宗教的な意図をも含みません。 19⁄3⁄2025-お見せできる出来栄えとし、これをPublicとする。 また、こういったワールドの紹介やアップデート内容をお知らせするグループもございます。 グループ：https˸⁄⁄vrc․group⁄WWII․2210",
 					"Platform": {
 						"PC": true,
 						"Android": false
@@ -7224,6 +7389,28 @@
 						"PC": true,
 						"Android": false
 					}
+				},
+				{
+					"ID": "wrld_e2288ae2-0028-44c6-8ed8-ec6bc8ade3e4",
+					"Name": "Monet Gallery モネ展",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Welcome to ＂Monet Gallery＂․ This is a fan world showcasing 68 works by the painter Claude Monet․ _____『Monet Gallery モネ展』へようこそ。画家クロード・モネの作品68点が展示されたファンワールドです。すべての作品に解説が添えられており、モネの世界をじっくりと体感していただけます。_____Each artwork is accompanied by a detailed caption‚ allowing you to fully immerse yourself in Monets world․",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_7225923b-2eab-40a7-a2ce-d1258dcf8894",
+					"Name": "ほらいずミュージアム",
+					"RecommendedCapacity": 80,
+					"Capacity": 80,
+					"Description": "いつも元気でかわいいホライズちゃんの写真が展示されているギャラリーワールドです！ 巨大なホライズちゃんと500枚以上の写真がお出迎え！",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
 				}
 			]
 		},
@@ -7266,8 +7453,8 @@
 				{
 					"ID": "wrld_218fceaf-e950-4d7f-bbe4-cecb68b8df18",
 					"Name": "サマーウォーズ【OZ】summer wars",
-					"RecommendedCapacity": 20,
-					"Capacity": 40,
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
 					"Description": "サマーウォーズの仮想世界【OZ】を一からすべて再現してみました。音楽も自作アレンジです․",
 					"Platform": {
 						"PC": true,
@@ -7972,7 +8159,7 @@
 					"Name": "KOWLOON SHISHA NIGHT ［九龍水煙之夜］",
 					"RecommendedCapacity": 20,
 					"Capacity": 40,
-					"Description": "九龍城砦の雰囲気に浸りながらシーシャで一服するワールドです。吸えるシーシャギミック⁄動画プレイヤー⁄睡眠用ギミック（アラーム・ナイトモード）あり。 （2024⁄5⁄7）SDK3․5․2に引き上げ。撮影補助ギミックとして、Lura's Movie Director Panel、十徳ライト２点、無減衰マイク２点を追加。ハンドメニューが開かなかったバグを修正。",
+					"Description": "九龍城砦の雰囲気に浸りながらシーシャで一服するワールドです。吸えるシーシャギミック⁄動画プレイヤー⁄睡眠用ギミック（アラーム・ナイトモード）あり。 【2025⁄05⁄21】SDK3․7․6に引き上げ、VRC Light Volumesに対応、メニューギミック換装、ライトベイク・一部テクスチャ見直し、ImageTab追加、ポストプロセス3種追加、テレポート先2箇所追加",
 					"Platform": {
 						"PC": true,
 						"Android": false
@@ -8115,7 +8302,7 @@
 					"Name": "Virtual Kawaramachi",
 					"RecommendedCapacity": 50,
 					"Capacity": 50,
-					"Description": "香川県高松市に存在する「瓦町」をバーチャル化しました！ 香川県のあらゆる情報が集まる場所として展開しています！ バーチャル瓦町‚ Takamatsu‚ Kagawa We have virtualized ＂Kawaramachi＂ which exists in Takamatsu City‚ Kagawa Prefecture‚ Japanǃ It is being developed as a place where all kinds of information about Kagawa Prefecture can be gatheredǃ",
+					"Description": "香川県高松市に存在する「瓦町」をバーチャル化しました！ バーチャル瓦町‚ Takamatsu‚ Kagawa We have virtualized ＂Kawaramachi＂ which exists in Takamatsu City‚ Kagawa Prefecture‚ Japanǃ It is being developed as a place where all kinds of information about Kagawa Prefecture can be gatheredǃ",
 					"Platform": {
 						"PC": true,
 						"Android": true
@@ -8277,10 +8464,10 @@
 				},
 				{
 					"ID": "wrld_b80bb17d-ef1f-4d3a-8dcc-cf8930d6df95",
-					"Name": "VRCParis",
+					"Name": "Eiffel Tower",
 					"RecommendedCapacity": 40,
 					"Capacity": 80,
-					"Description": "VRCP v1․7․2 Fixed Animated Water Flow Direction․",
+					"Description": "v1․7․2 Fixed Animated Water Flow Direction․",
 					"Platform": {
 						"PC": true,
 						"Android": true
@@ -8607,13 +8794,46 @@
 				},
 				{
 					"ID": "wrld_dea560af-cc20-4cab-83c1-326420915e38",
-					"Name": "Lumarnity v1․0",
+					"Name": "Lumarnity v2․0",
 					"RecommendedCapacity": 16,
 					"Capacity": 40,
 					"Description": "The Moon is extremely isolated․ Supplies from Earth are limited in both quantity and quality․ Under these circumstances‚ it is essential to build an energy self-sufficiency system and an infrastructure to circulate limited resources in order to realize a safe and comfortable long-term stay for human beings․ Lumarnity is a smart community equipped with these features and named after the Lunar Smart Community․ Version 1․0˸ Release Date˸ 2024-03-04․ Komatsu lunar machine（Provided by Komatsu Ltd․） is now available․ Mail˸ lumarnity＠jgc․com ©2023 JGC CORPORATION",
 					"Platform": {
 						"PC": true,
 						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_d12a850f-ed22-4e44-a759-99f0c0df8c76",
+					"Name": "島根県江津市 石見神楽『大蛇』／Gotsu City‚ Shimane Prefecture IWAMI KAGURA ＂OROCHI＂",
+					"RecommendedCapacity": 30,
+					"Capacity": 30,
+					"Description": "島根県江津市 石見神楽『大蛇』／Gotsu City‚ Shimane Prefecture IWAMI KAGURA ＂OROCHI＂ 須佐之男命（すさのおのみこと）と八岐大蛇（やまたのおろち）が対峙する場面をメタバース化しています。衣装や大蛇の鱗の細かさを間近でご覧いただけます。ぜひ様々な角度からご鑑賞ください。 室内には『鐘馗（しょうき）』に登場する「鐘馗」と「疫神」の衣装を展示しています。こちらの衣装はBOOTH「大丸・松坂屋アバター販売公式」にて無償配布を行っています。 動画プレイヤー内のプレイリストの動画もぜひご覧ください。 ＃GOGOTSU ＃大丸松坂屋アバター ©大丸・松坂屋アバター販売公式",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_adbcb217-fee9-4bb0-b264-54aef167e9ac",
+					"Name": "五十鈴神社-isuzushrine-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "宮城県石巻市⁄五十鈴神社を再現したワールドになります！ 神道系バーチャルアーティストの夢天狗が普段活動している舞台となります。 Youtube等での配信使用OKです！ 2025⁄5⁄20 VRCLightVolumeに対応しました。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_bb9503be-425a-4575-ac08-7ee6755c5bd8",
+					"Name": "阪神武庫川駅 ⁄ Hanshin railway Mukogawa station",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "川の上にあることで有名な「武庫川駅」を再現したワールドです",
+					"Platform": {
+						"PC": true,
+						"Android": true
 					}
 				}
 			]
@@ -9715,7 +9935,7 @@
 					"Name": "Valkyrie Arena",
 					"RecommendedCapacity": 32,
 					"Capacity": 32,
-					"Description": "Version 1․7․3․ Aerial combat PvP world․ Shoot each other with guns and missiles․ ブースターを使って空を飛び、銃やミサイルで撃ちあう空中戦ができるPvPワールドです。1-16Players․ Desktopの場合は無限ジャンプで空を飛べるようにしました。Defenseモードを追加しました。If something goes wrong‚ restart the instance․動作がおかしくなった時はインスタンスを立て直してください。quest対応しました",
+					"Description": "Version 1․8․ Aerial combat PvP world․ Shoot each other with guns and missiles․ ブースターを使って空を飛び、銃やミサイルで撃ちあう空中戦ができるPvPワールドです。1-16Players․ Desktopの場合は無限ジャンプで空を飛べるようにしました。Defenseモードを追加しました。If something goes wrong‚ restart the instance․動作がおかしくなった時はインスタンスを立て直してください。quest対応しました",
 					"Platform": {
 						"PC": true,
 						"Android": true
@@ -9748,7 +9968,7 @@
 					"Name": "Idle Cube",
 					"RecommendedCapacity": 24,
 					"Capacity": 48,
-					"Description": "［2․10․2 Mini Content Update］ A world above the sea comes a idle game against floating cubesǃ Fire away with your rifle or unlock the turrets around the base and enjoy a relaxing idle game experience․",
+					"Description": "［2․10․3 Mini Content Update］ A world above the sea comes a idle game against floating cubesǃ Fire away with your rifle or unlock the turrets around the base and enjoy a relaxing idle game experience․",
 					"Platform": {
 						"PC": true,
 						"Android": true
@@ -9814,7 +10034,7 @@
 					"Name": "Massive Medal Pusher ⁄ クソでっけぇプッシャーゲーム",
 					"RecommendedCapacity": 20,
 					"Capacity": 80,
-					"Description": "【ENG ⁄ JP】【Ver․2․4】 SO MASSIVEǃǃǃǃ Massive local medals - global leaderboards ＆ instance-wide features awaitǃ でっけえ！！！！ メダルは負荷を考慮して非同期です。",
+					"Description": "【ENG ⁄ JP】【Ver․2․8․1】 SO MASSIVEǃǃǃǃ Massive local medals - global leaderboards ＆ instance-wide features awaitǃ でっけえ！！！！ メダルは負荷を考慮して非同期です。",
 					"Platform": {
 						"PC": true,
 						"Android": true
@@ -9829,6 +10049,28 @@
 					"Platform": {
 						"PC": true,
 						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_85de17cd-e1d2-4245-8851-ce073a12d01d",
+					"Name": "ヨドコロちゃんの人力アキネイター！",
+					"RecommendedCapacity": 20,
+					"Capacity": 20,
+					"Description": "みんなで「これな～んだ？」しよう。お題は全528種！ はいかいいえかで答えられる質問だけをして時間内にお題を当てるゲームです。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_e26688e8-40c9-48ad-a206-de965919a547",
+					"Name": "モザイクされたモデルを当てるゲーム",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "",
+					"Platform": {
+						"PC": true,
+						"Android": true
 					}
 				}
 			]
@@ -10556,10 +10798,10 @@
 					"Name": "砲雷撃戦、始め！Commence artillery fire ǃ",
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
-					"Description": "主砲と魚雷が撃てる駆逐艦、爆撃雷撃が可能な艦載機があるワールドです！船酔い注意！This world has destroyers capable of firing torpedoes and cannons‚ and shipboard aircraft capable of bombing and firing torpedoes ǃ Be careful not to get seasick ǃ",
+					"Description": "［WIP］主砲と魚雷が撃てる駆逐艦、爆撃雷撃が可能な艦載機があるワールドです！船酔い注意！This world has destroyers capable of firing torpedoes and cannons‚ and shipboard aircraft capable of bombing and firing torpedoes ǃ Be careful not to get seasick ǃ",
 					"Platform": {
 						"PC": true,
-						"Android": false
+						"Android": true
 					}
 				},
 				{
@@ -10612,6 +10854,17 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 80,
 					"Description": "Featuring 8 Jetskis‚ wave simulations‚ and unlockables‚ enjoy the beach and go for high scores on the leaderboardǃ Can you find all 16 duckies? Made by LiQua",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_e4c6f9f1-3b9c-487c-a02c-2f35af203046",
+					"Name": "自由レイアウト型VRCキャンプ場",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "自由にレイアウトができるキャンプ場 VirtualCampersのホームワールド VRTRPGサポートツール「CatsUdon」",
 					"Platform": {
 						"PC": true,
 						"Android": true
@@ -10988,8 +11241,8 @@
 				{
 					"ID": "wrld_a3721aaa-3c06-4ce2-9b70-390add2a85b1",
 					"Name": "VRChatここから始めました （Kokokara）【JP】",
-					"RecommendedCapacity": 32,
-					"Capacity": 32,
+					"RecommendedCapacity": 48,
+					"Capacity": 48,
 					"Description": "VisitorはTrustedに、TrustedはVisitorに、なってゆきます。 （技術担当：mameneko・kimkim0106）",
 					"Platform": {
 						"PC": true,
@@ -11214,6 +11467,17 @@
 					"Platform": {
 						"PC": true,
 						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_07e9d737-8957-4ac6-9128-8d08c05c4fc9",
+					"Name": "実写合成ミュージアム-RealPhotoFusionMuseum",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "現実の写真の中に入れるワールドです。写真は随時追加予定。It's a world that puts you in the picture of reality․",
+					"Platform": {
+						"PC": true,
+						"Android": false
 					}
 				}
 			]
@@ -12968,10 +13232,32 @@
 					"Name": "ill",
 					"RecommendedCapacity": 10,
 					"Capacity": 20,
-					"Description": "昭和の住宅をイメージしたワールドです。押入れのテープレコーダーを作動させることで意図的な恐怖演出あり。それ以外は関知していません。ホラー動画の視聴にご利用下さい。接触しなければこの部屋は安全であることを確認済みです。まだ祖父かどうかの確認ができておりません。異音や想定外の動作報告は現在2件のみです。 2025⁄3⁄15更新： 恐怖演出の追加 ライティング調整のオプション追加 動画プレイヤーの変更＆プレイリストの追加 動画視聴用サブモニターの追加 その他細かい調整＆追加",
+					"Description": "昭和の住宅をイメージしたワールドです。押入れのテープレコーダーを作動させることで意図的な恐怖演出あり。それ以外は関知していません。ホラー動画の視聴にご利用下さい。接触しなければこの部屋は安全であることを確認済みです。まだ祖父かどうかの確認ができておりません。異音や想定外の動作報告は現在3件のみです。 2025⁄5⁄16更新： 動画プレイリストの追加 その他細かい調整＆追加",
 					"Platform": {
 						"PC": true,
 						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_e6653aa6-7e66-457f-bfdc-1f5d3a56b63b",
+					"Name": "TerrorVision˸ Silver Scream Theater",
+					"RecommendedCapacity": 80,
+					"Capacity": 80,
+					"Description": "Welcome to the Silver Scream Theater film festivalǃ Explore seven unique horror films in this scare maze made just for TerrorVisionǃ",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_a9852c99-dc40-4dcf-84df-99522249a8b2",
+					"Name": "百狐Akyo - The Night Parade of One Hundred Fox Akyos",
+					"RecommendedCapacity": 30,
+					"Capacity": 30,
+					"Description": "狐Akyo100匹とちびうこんちゃんのいる少し暗めなチルワールドです。（導入が暗い場所です。暗いのが苦手な方は要注意） ちょっとかわったAkyoが10匹います。探してみてね！透明、触ると変形、伸びる、カメラ付き、カメラに映らない or カメラにしか映らない、アバターペデスタルなど",
+					"Platform": {
+						"PC": true,
+						"Android": false
 					}
 				}
 			]
@@ -13778,10 +14064,10 @@
 				},
 				{
 					"ID": "wrld_68bb31aa-f123-4bc1-961d-d35c6304c81c",
-					"Name": "World Repository ［05 ⁄ 02 ⁄ 2025］",
+					"Name": "World Repository ［05 ⁄ 30 ⁄ 2025］",
 					"RecommendedCapacity": 10,
 					"Capacity": 60,
-					"Description": "An infinite corridor leading to everywhere․ Portals to worlds that I think are neatǃ｜1278 Portals｜Too many to choose from? Check out the supplemental world ＂World Repository ［Daily Picks］＂ for a daily random selection of 10 worlds from the listǃ",
+					"Description": "An infinite corridor leading to everywhere․ Portals to worlds that I think are neatǃ｜1293 Portals｜Too many to choose from? Check out the supplemental world ＂World Repository ［Daily Picks］＂ for a daily random selection of 10 worlds from the listǃ",
 					"Platform": {
 						"PC": true,
 						"Android": true
