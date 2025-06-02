@@ -4107,6 +4107,28 @@
 						"PC": true,
 						"Android": false
 					}
+				},
+				{
+					"ID": "wrld_8e362f79-0a56-4013-8412-3935e3e41d7e",
+					"Name": "最果天元 -キアズマプリズム- XhiasmaPrizm -MemOrigins-",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "＂色褪せはしない 忘れられないな＂Double Jump＆Dash Available ［QuickMenu］VR˸Press the Rtrigger twice Desktop˸Tab Key",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_56c0cb48-7a39-454f-b0ac-69547672a2c0",
+					"Name": "Giant Excavator",
+					"RecommendedCapacity": 80,
+					"Capacity": 80,
+					"Description": "aaaaaaaaaaa",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
 				}
 			]
 		},
@@ -6275,6 +6297,39 @@
 					"RecommendedCapacity": 12,
 					"Capacity": 24,
 					"Description": "cozy cabin ｜ chill room",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_54127936-5a66-4f17-9f88-60bd6fa97dfb",
+					"Name": "サクッとひととき - Moment",
+					"RecommendedCapacity": 2,
+					"Capacity": 16,
+					"Description": "サクッとひととき過ごしませんか？そう広くはない空間にチルに必要なギミックを詰め込んであり、窓やカーテンの開閉も可能です。外の明るさがリアルタイムに変化しますのでホームワールドやV睡にもおすすめです。 - Why don't you spend a quick moment? The space is not so large‚ but it is packed with gimmicks necessary for chill‚ and windows and curtains can be opened and closed․ The brightness of the outside changes in real time‚ so it is recommended for home world and sleep․［Gimmik］ RBS SleepKit 2 ⁄ Virtual Celestial Renderer ⁄ VLV ⁄ VizVid ⁄ AudioLink ⁄ LTCGI ⁄ Flip Camera ⁄ QVPen ⁄ etc․․․",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_786d7243-c83d-48b2-aa7b-94d7c36b49af",
+					"Name": "星空見ながら寝るだけ",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "星空の下での睡眠特化。よけいな壁や床はありません。 ベッド２種、Qvペン、動画プレイヤーあります！ プラネタリウムのフル機能あり！デフォはPC時刻に同期しますが、時間変更可能です。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_efa50940-28f4-4d55-9168-873bf860f8d0",
+					"Name": "多分、雨。",
+					"RecommendedCapacity": 15,
+					"Capacity": 25,
+					"Description": "『俺はただ、静かに言葉と向き合いたかっただけ。』 メイン部屋は上下ミュート機能あり、違う動画を再生しても干渉しません。 奥の部屋もミュート機能、そしてロック機能、インターホン、カメラもついてます。 imagePad FlipCamera QvPen 青空文庫 『＃多分雨VRC で撮った写真ポストしてくれたらみに行くよ』",
 					"Platform": {
 						"PC": true,
 						"Android": true
@@ -8835,6 +8890,17 @@
 						"PC": true,
 						"Android": true
 					}
+				},
+				{
+					"ID": "wrld_1b1a1ad2-b311-4091-b3d8-2d56ee152280",
+					"Name": "宇推国際会議場【Usui Clear International Conference Center】",
+					"RecommendedCapacity": 32,
+					"Capacity": 80,
+					"Description": "こちらはファンメイドの【非公式】ワールドです． 「宇推重工業株式会社 総合技術研究開発本部 研究学園都市事業所 宇推国際会議場」 Ver․5․1․01",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
 				}
 			]
 		},
@@ -10072,6 +10138,17 @@
 						"PC": true,
 						"Android": true
 					}
+				},
+				{
+					"ID": "wrld_89030155-e58c-4fbf-87cb-716d55269cfc",
+					"Name": "ジェスチャーゲーム【charades】",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "お題カードを引いてジェスチャーで相手に伝えよう！ 出題者はVR必須、回答者はデスクトップでも可。 Draw a subject card and tell your partner with gesturesǃ VR is required for contestants‚ desktop is acceptable for respondents․",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
 				}
 			]
 		},
@@ -10865,6 +10942,17 @@
 					"RecommendedCapacity": 16,
 					"Capacity": 32,
 					"Description": "自由にレイアウトができるキャンプ場 VirtualCampersのホームワールド VRTRPGサポートツール「CatsUdon」",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_e723f47b-b4e0-487d-83a3-d0203c1ca408",
+					"Name": "MAGURO LAND",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "まぐろはいいぞ",
 					"Platform": {
 						"PC": true,
 						"Android": true
