@@ -681,7 +681,7 @@
 					"Name": "District Roboto",
 					"RecommendedCapacity": 80,
 					"Capacity": 80,
-					"Description": "Welcome to District Robotoǃ home to the unique and curious droids inhabitants‚ explore this humble district and maybe find your own little spot in this bustling place․ Updated to support Red Sim's Light Volume",
+					"Description": "Welcome to District Robotoǃ home to the unique and curious droids inhabitants‚ explore this humble district and maybe find your own little spot in this bustling place․ Updated to support Red Sim's Light Volumeǃ",
 					"Platform": {
 						"PC": true,
 						"Android": false
@@ -1503,10 +1503,10 @@
 				},
 				{
 					"ID": "wrld_ee8b1b4c-5e57-4394-a864-a02b370c8676",
-					"Name": "Polyworld （v0․149c）",
+					"Name": "Polyworld （v0․149g）",
 					"RecommendedCapacity": 60,
 					"Capacity": 80,
-					"Description": "Welcome to a low-fi adventure․ Explore the city and visit the different areas․ Attractions include a working cinema with realtime lighting and 7․1 support‚ a vinyl music store‚ nightclubs‚ rooftop bar‚ working bowling alley and more․ Check out the site for linksǃ https˸⁄⁄polyworld․city （Quest Updated˸ 2025-05-13）",
+					"Description": "Welcome to a low-fi adventure․ Explore the city and visit the different areas․ Attractions include a working cinema with realtime lighting and 7․1 support‚ a vinyl music store‚ nightclubs‚ rooftop bar‚ working bowling alley and more․ Check out the site for linksǃ https˸⁄⁄polyworld․city （Quest Updated˸ 2025-06-05）",
 					"Platform": {
 						"PC": true,
 						"Android": true
@@ -4129,6 +4129,226 @@
 						"PC": true,
 						"Android": false
 					}
+				},
+				{
+					"ID": "wrld_8e362f79-0a56-4013-8412-3935e3e41d7e",
+					"Name": "最果天元 -キアズマプリズム- XhiasmaPrizm -MemOrigins-",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "＂色褪せはしない 忘れられないな＂Double Jump＆Dash Available ［QuickMenu］VR˸Press the Rtrigger twice Desktop˸Tab Key",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_5e57f251-6ac5-463b-a036-774d05c27124",
+					"Name": "虹と花のGarden",
+					"RecommendedCapacity": 16,
+					"Capacity": 16,
+					"Description": "2025․No․1_World",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_e0df9b74-089c-44bb-b236-c8790640c608",
+					"Name": "忘れられた森",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "2025․No․4_World",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_842632af-206f-440c-b225-cda10ccc5e68/",
+					"Name": "渓流 -various stream-",
+					"RecommendedCapacity": 9,
+					"Capacity": 9,
+					"Description": "2025․No․3_World",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_10e09cda-95f9-4ee8-8bf4-1a6864362fd2",
+					"Name": "さくらと神社",
+					"RecommendedCapacity": 7,
+					"Capacity": 7,
+					"Description": "2025․No․5_World",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_07b372d3-5638-410d-859b-875d8f5aa162",
+					"Name": "Astronomical observation 星を探して",
+					"RecommendedCapacity": 7,
+					"Capacity": 7,
+					"Description": "はじめようか",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_3a354428-d068-4b13-95a0-6a981b0d7d89",
+					"Name": "MoonLight -水辺の月光浴-",
+					"RecommendedCapacity": 80,
+					"Capacity": 80,
+					"Description": "MoonLight",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_d7a812ad-306f-43ab-a0da-2204626a097c",
+					"Name": "思い出の庭園",
+					"RecommendedCapacity": 80,
+					"Capacity": 80,
+					"Description": "どうぞごゆっくり散策してくださいませ",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_93a96e7b-a1e9-4314-a6d2-98616543fc61",
+					"Name": "向日葵と大自然",
+					"RecommendedCapacity": 80,
+					"Capacity": 80,
+					"Description": "広いワールドになってます。 大自然に向日葵が咲く丘と、山、海などあり、いろんなロケーションが楽しめると思います。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_1ff0eb15-c27c-4d58-8a00-9a509278c6cd",
+					"Name": "桜の咲く道で",
+					"RecommendedCapacity": 80,
+					"Capacity": 80,
+					"Description": "桜に囲まれた空間を散策をしながら過ごしみるのはいかがでしょうか? Pocket Garden様の『桜並木セット』を部分的に使わせてもらってます。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_f1f548e5-799e-42e6-9a8d-f6a32bce6d51",
+					"Name": "孤島と城と",
+					"RecommendedCapacity": 80,
+					"Capacity": 80,
+					"Description": "孤島を舞台にお城や様々なものがあります、 結構広いのでぜひ探索してみてください。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_bb09ec94-1087-438f-824e-72a97c5ca3d1",
+					"Name": "花いっぱいの幸せを",
+					"RecommendedCapacity": 16,
+					"Capacity": 30,
+					"Description": "あなたとあなたの大切な人たちが、幸せを感じられるひとときを過ごせますように。四つ葉のクローバーと花の指輪がそれぞれ１つ、ベンチの周辺に隠されています。探してみてね。＊めいろん島・1＊",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_2912619b-2284-4ed1-824a-2bb92d9c6033",
+					"Name": "花いっぱいの幸せを（夜）",
+					"RecommendedCapacity": 16,
+					"Capacity": 30,
+					"Description": "小さな光を心に灯し、流れ星に願いを込めよう。∗めいろん島・2∗",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_682b902f-18c6-4285-9954-95fddc852ee5",
+					"Name": "水没都市-滅浜島（ほろはまじま）",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "滅浜島、かつて人類が多く住んでた場所。今となっては、街は水没し廃れた場所になっている（Qvpen․iwasync․imagepad․mirror）",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_af67abae-573b-4415-a742-4927faa026d6",
+					"Name": "The Day of Judgment",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "A Peaceful Moment in Silence in The Afterlife",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_02f30087-ed74-4ae4-a717-72b5dae5e4dc",
+					"Name": "本日、車内雨模様にて",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "本日は全車両雨模様となっておりますので、お乗りになる方は傘をお忘れにならないようお気をつけ下さい。動画プレイヤー、QVペン、ミラーは工事現場の中に有ります。 ワールド内ポスター、サムネ制作者「モル」さん",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_5972ad9f-6538-45a1-9385-e938c188152a",
+					"Name": "茜色の祈り - Twilight Prayer",
+					"RecommendedCapacity": 4,
+					"Capacity": 16,
+					"Description": "茜色に染まる道の先、私達の祈りはどこへ続くのだろう。［QvPen‚iwasync3］",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_bb41d5cd-5b64-405e-8a44-2b0b9f69e1ee",
+					"Name": "神域 -桜幻ノ幽瀧-",
+					"RecommendedCapacity": 32,
+					"Capacity": 32,
+					"Description": "御座町の山奥にある祠、そこは清き魂を持つ者を幽世へ誘うと言う。立ち入れば最後、二度と現世に戻れぬぞ。｢御座町都市伝説~常春ノ章~より」",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_07f9efb2-ff9c-4db0-be15-ff126f5352d9",
+					"Name": "終刻の遺都",
+					"RecommendedCapacity": 50,
+					"Capacity": 50,
+					"Description": "世界が終を迎えようとも僕の刻は流れ続ける",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_72244679-733b-4695-bf03-ea936f54a71a",
+					"Name": "約束の花園",
+					"RecommendedCapacity": 32,
+					"Capacity": 32,
+					"Description": "永遠の誓いを守るために",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
 				}
 			]
 		},
@@ -6334,6 +6554,50 @@
 						"PC": true,
 						"Android": true
 					}
+				},
+				{
+					"ID": "wrld_f461bea7-2d63-48aa-bb59-427ce3dc7924",
+					"Name": "あやかしとよるのまにまに -Night Veiled in Spirits-",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "あやかしたちのおもてなし その妖光をくぐってはいけない",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_4f019af2-c40c-4e9f-b867-51530a667c31",
+					"Name": "帰る場所 a place to come back",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "大切な人が帰ってこれる場所、帰ってくるのを待っている場所 ⁄ 更新：座ると透明になる持てる椅子を設置しました。お姫様抱っこしてあげてください。A place where your loved ones can come home‚ waiting for you to come home ⁄ Update˸ We have installed a chair that you can hold that becomes transparent when you sit on it․ Please give them a princess hug․",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_5875bbde-3b1d-4e77-b3e7-4235be25fbc0",
+					"Name": "305号室",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "2DKのお部屋です。ベランダから花火が見えます。 ミラー、動画プレイヤー、QVPen、Imagepad、ベッドギミック、ポーカーがあります。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_094ed985-783c-43e1-9211-c3b9f7f60128",
+					"Name": "コイメライト",
+					"RecommendedCapacity": 16,
+					"Capacity": 16,
+					"Description": "Darts‚Video Poker‚Media Player‚and Sleep․",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
 				}
 			]
 		},
@@ -7241,6 +7505,28 @@
 						"PC": true,
 						"Android": false
 					}
+				},
+				{
+					"ID": "wrld_53125a74-a5c4-4e42-840e-373f390f844f",
+					"Name": "漏水地区【盃市観光エリア１号】",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "ふしぎ地中大都市での走行を楽しもう！！ 2度すばやく移動で加速、椅子はジャンプ長押しで降りる アリーナ内にてiwaSync3及びAudioLink使用 使用アセットは通路内の中央 Enjoy running in the mysterious underground metropolisǃ Move twice quickly to accelerate‚ and hold down the jump button to get off the chair․ Use iwaSync3 and AudioLink in the arena․ The assets used are in the center of the aisle․ （The ［Google Translate］ service was used for the translation․）",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_228f982e-cafe-4964-88a2-0c83ce66acd0",
+					"Name": "どっかのコインランドリー",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "どこかにあるコインランドリーを記憶を頼りに作りました VideoPlayerとQVPenがあります 差し込む光でちょっといい感じに写真撮ってね",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
 				}
 			]
 		},
@@ -7462,6 +7748,17 @@
 					"RecommendedCapacity": 80,
 					"Capacity": 80,
 					"Description": "いつも元気でかわいいホライズちゃんの写真が展示されているギャラリーワールドです！ 巨大なホライズちゃんと500枚以上の写真がお出迎え！",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_d141fbfd-9640-4c8e-afb1-027685ea68dd",
+					"Name": "What Is Virtual Art - Volume 1",
+					"RecommendedCapacity": 40,
+					"Capacity": 80,
+					"Description": "Welcome to our group exhibition【What Is Virtual Art - Volume 1】‚ available in English and Chinese․ 丨 250606",
 					"Platform": {
 						"PC": true,
 						"Android": false
@@ -8901,6 +9198,28 @@
 						"PC": true,
 						"Android": false
 					}
+				},
+				{
+					"ID": "wrld_146ea52b-02fa-4ecf-a32b-79f9cf5c65dd",
+					"Name": "Mt․Hakodate",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "Mt․Hakodate 函館山に登ったことがなく行きたいという欲求のためにアレンジで作りました。 簡単なBARとグライダーギミックがあるので是非函館を見ながらチルしてください！",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_17ad9a08-9cae-4eba-98ed-cda1e23f2568",
+					"Name": "金色世界 ⁄ GOLDEN VIEW OF THE WORLD",
+					"RecommendedCapacity": 8,
+					"Capacity": 16,
+					"Description": "このワールドは、天野喜孝が2022年11月に京都・妙心寺で開催した『金色世界』をVR空間に再構築したものです。 金箔や箔押しといった日本の伝統工芸と、天野喜孝の幻想的なアートが響き合い、VRならではの没入体験を生み出します。 This world is a VR reconstruction of The Golden World‚ an exhibition held by Yoshitaka Amano at Myoshinji Temple in Kyoto in November 2022․ Traditional Japanese techniques such as gold leaf and foil stamping blend with Amano's fantastical art‚ creating an immersive experience unique to VR․ ©YOSHITAKA AMANO ©TWIN PLANET Co․‚ LTD․ BGM『天ノ音-Ama no Ne-』作曲：金川蓮",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
 				}
 			]
 		},
@@ -10149,6 +10468,17 @@
 						"PC": true,
 						"Android": false
 					}
+				},
+				{
+					"ID": "wrld_4d15f47f-0083-4feb-8625-fc9bc6e88e3f",
+					"Name": "アニメロゴクイズ",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "どこかで見たことあるアニメロゴクイズです。ロゴの一部だけ表示されるので、そのアニメロゴが何かを当てるクイズになります。プレイ人数1〜複数人（早押しボタンは9個）。出題者居なくても一応出来ます。一部ローカル動作です。バグったらすみません。。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
 				}
 			]
 		},
@@ -10957,6 +11287,17 @@
 						"PC": true,
 						"Android": true
 					}
+				},
+				{
+					"ID": "wrld_4120b494-0dba-4a00-bdf5-5ce2225642ec",
+					"Name": "和太鼓体験ワールド",
+					"RecommendedCapacity": 16,
+					"Capacity": 16,
+					"Description": "桶太鼓・担ぎ太鼓の演奏体験ができるワールドです。 ほかの楽器はアップデートで追加予定です。 おたのしみに！",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
 				}
 			]
 		},
@@ -11567,6 +11908,39 @@
 						"PC": true,
 						"Android": false
 					}
+				},
+				{
+					"ID": "wrld_f71988d7-11b9-46fe-b8e8-3bbc4a59bb2a",
+					"Name": "VRCMark v2",
+					"RecommendedCapacity": 1,
+					"Capacity": 32,
+					"Description": "［VR Only］ VRChat用のベンチマークワールドです。 CPUとGPUに意図的に負荷をかけ、その性能を測定します。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_abe4017f-3124-41ea-9292-98007c011bfd",
+					"Name": "ギミック展覧会beta",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "アバター、衣装を試すワールドはあるけど、ギミックの展覧会はないなぁと思って制作しています。今後も展示がどんどん増える予定です。",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_481b9c5e-0d26-445c-8bf9-588247c86971",
+					"Name": "NEMUSK PHOTO BOOTH ＃01",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "アバター撮影向けのフォトブースワールドです。 小物とかも展示しています。 電話ボックス ⁄ モノクロソファ ⁄ ハート型プール。 This is a photo booth world for avatar photography․ Accessories are also on display․ telephone booth ⁄ monochrome sofa ⁄ heart-shaped pool․",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
 				}
 			]
 		},
@@ -12074,6 +12448,17 @@
 					"RecommendedCapacity": 2,
 					"Capacity": 4,
 					"Description": "One Room․ One Timeline? Solve the puzzles․ Find the Clues․ See where it takes you․․․",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_69f2c046-3628-4a9b-9f65-a9a7ea93be25",
+					"Name": "都道府県クイズ 共通点を探せ",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "色塗りしている都道府県に共通している事柄を答えて下さい ・全８問（初級1・2問 中級3・4問 上級5・6問 超級7・8問） ・ヒントを用意しているので活用してください ・2025年5月時点のデータで問題を作成しています ・所要時間は15～30分程度",
 					"Platform": {
 						"PC": true,
 						"Android": true
@@ -14066,6 +14451,28 @@
 					"Platform": {
 						"PC": true,
 						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_668e8d21-79a0-4ee5-a2cf-3b5f371a92bf",
+					"Name": "Light Aquarium",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Fluid simulation room ⁄ Shoutout to VRC Light Volumesǃ",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_c2c0a30b-51d8-46d1-a62f-d17b0ca28911",
+					"Name": "Cosmos",
+					"RecommendedCapacity": 8,
+					"Capacity": 8,
+					"Description": "Cosmos",
+					"Platform": {
+						"PC": true,
+						"Android": true
 					}
 				}
 			]
